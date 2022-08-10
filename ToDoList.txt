@@ -1,3 +1,0 @@
-Washer,1000
-Desk,500
-Couch,500
